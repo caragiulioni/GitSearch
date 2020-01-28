@@ -349,7 +349,6 @@ label{
 
   input{
     width: 100%;
-    margin-bottom: 10px;
 }
  
 .searchButtons{
@@ -365,10 +364,12 @@ label{
 .search {
     width: 100vw;
     align-items: center;
-/*    display: flex;
-    flex-direction: column;
-*/}
+}
 
+form{
+    flex-direction: column;
+    height: 60px;
+}
 }
 
 </style>
