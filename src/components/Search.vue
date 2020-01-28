@@ -349,6 +349,7 @@ label{
 
   input{
     width: 100%;
+    margin-bottom: 10px;
 }
  
 .searchButtons{
