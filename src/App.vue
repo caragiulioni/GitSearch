@@ -25,6 +25,7 @@ body {
   font-family: 'Abel', sans-serif;
   overflow: hidden;
   font-size: 1.5rem;
+  overflow-y: auto;
 }
 
 #app {

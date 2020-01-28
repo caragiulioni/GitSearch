@@ -38,7 +38,6 @@
                 <div class="desc"><h3>Description:</h3><p>{{item.description}}</p></div>
                 <div class="expandedInner">
                   <div class="gridTwo">
-                    <div class="details"><h3>URL:</h3><a v-bind:href="item.html_url">{{item.full_name}}</a></div>
                     <div class="details"><h3>Branch:</h3><p>{{item.default_branch}}</p></div>
                   </div> 
                   <div class="gridTwo">

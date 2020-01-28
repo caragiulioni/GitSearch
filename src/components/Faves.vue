@@ -248,11 +248,11 @@ ul {
   .header__dropdown-menu {
     position: absolute;
      right: -50px; 
-    margin-top: 77px;
+    margin-top: 75px;
 	}
 
 	button {
-    padding: 1.62px 25px;
+    padding: 1.5px 25px;
 }
 
 
