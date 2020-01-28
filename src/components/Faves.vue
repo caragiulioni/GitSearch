@@ -243,6 +243,10 @@ ul {
 }
 
 
+.item a {
+	color: grey;
+}
+
 @media screen and (max-width: 1180px){
  
   .header__dropdown-menu {

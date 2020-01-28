@@ -354,7 +354,6 @@ label{
 .searchButtons{
       width: 200px;
     align-self: center;
-    margin-top: 10px;
 
 }
 

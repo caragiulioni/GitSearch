@@ -146,5 +146,11 @@ form, .items,  .header__dropdown-menu {
 form, .items, .header__dropdown-menu {
     width:300px;
 }
+
+body {
+  font-size: 1.2rem;
+
+}
+
 }
 </style>
