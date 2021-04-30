@@ -1,8 +1,10 @@
-# gitsearch
+### Gitsearch
 
-> A Vue.js project
+Git Search allows vistors to perform a seach via the Git Hub API, filter their results and add/remove favorites.
 
-## Build Setup
+[View it live](https://gitsearchdemo.netlify.app/#/)
+
+### Build Setup
 
 ``` bash
 # install dependencies ..
@@ -17,7 +19,4 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-"# vuejsdemo"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/caragiulioni/vuejsdemo.git git push -u origin master
-"# vuejsdemo"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/caragiulioni/vuejsdemo.git git push -u origin master
+  
